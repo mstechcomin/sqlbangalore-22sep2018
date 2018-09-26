@@ -11,7 +11,7 @@ You can also use this direct link to [Photo Album](https://www.facebook.com/medi
 <i>You need to be logged into your Facebook Account, to get access to the Uploaded Files on our Facebook Group</i>
 
 | Sl# | Session Title | Presentation / Links |
-|:---:|:-----------|:---------|:------------|
+|:---:|:---------|:------------|
 | 1 | Tools for Troubleshooting SQL Server | [Facebook](https://www.facebook.com/groups/SQLBangalore/permalink/2113893361975363/  "PDF on Facebook")  |
 | 2 | Advanced Troubleshooting AlwaysOn Availability Group | [Facebook](https://www.facebook.com/groups/SQLBangalore/permalink/2114899661874733/  "PDF on Facebook")  |
 
